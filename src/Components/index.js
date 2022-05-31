@@ -1,0 +1,5 @@
+export {default as Navbar} from './Navbar.jsx'
+export {default as Main} from './Main.jsx'
+export {default as Section} from './Section.jsx'
+export {default as Last} from './Last.jsx'
+export {default as Footer} from './Footer.jsx'

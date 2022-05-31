@@ -16,16 +16,16 @@ function Footer() {
                     <h3 className='text-primary'>Get Access</h3>
                     <p className='mb-0'>We allow developers to have access to our API with just a token amount. We are trust worthy.</p>
                     <p className='pb-2'>Eplore our api here.....</p>
-                    <a href="#" className="text-decoration-none bg-danger p-2 text-white">Access Api</a>
+                    <a href="/" className="text-decoration-none bg-danger p-2 text-white">Access Api</a>
                 </div>
             </Col>
             <Col>
                 <div className="footer__getAccess w-100 text-start">
                     <h3 className='text-white'>Category</h3>
-                    <a href="#" className="text-decoration-none"><p className='pb-2 mb-1'>Car brands...</p></a>
-                    <a href="#" className="text-decoration-none"><p className='pb-2 mb-1'>Education</p></a>
-                    <a href="#" className="text-decoration-none"><p className='pb-2 mb-1'>Sport</p></a>
-                    <a href="#" className="text-decoration-none"><p className='pb-2 mb-1'>Crime</p></a>
+                    <a href="/" className="text-decoration-none"><p className='pb-2 mb-1'>Car brands...</p></a>
+                    <a href="/" className="text-decoration-none"><p className='pb-2 mb-1'>Education</p></a>
+                    <a href="/" className="text-decoration-none"><p className='pb-2 mb-1'>Sport</p></a>
+                    <a href="/" className="text-decoration-none"><p className='pb-2 mb-1'>Crime</p></a>
                 </div>
             </Col>
             <Col>

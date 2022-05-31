@@ -19,7 +19,7 @@ function Main() {
                                         alt="First slide"
                                         />
                                         <Carousel.Caption>
-                                        <h3><a href="#" className="text-decoration-none text-dark">Track Robot the Real Tracker</a></h3>
+                                        <h3><a href="/" className="text-decoration-none text-dark">Track Robot the Real Tracker</a></h3>
                                         <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                                         </Carousel.Caption>
                                     </Carousel.Item>
@@ -54,7 +54,7 @@ function Main() {
                             <div className="w-100 main__right">
                                 <img src={img2} alt="img.jpg" />
                                 <div className="main__right__text px-2 py-4 bg-white text-center">
-                                    <h3><a href="#" className="text-decoration-none text-dark">Track Robot the Real Tracker</a></h3>
+                                    <h3><a href="/" className="text-decoration-none text-dark">Track Robot the Real Tracker</a></h3>
                                     <small className='text-secondary'>20th Jan. 2022</small>
                                     <h5 className='text-dark' style={{fontSize: '12px', lineHeight: '1.3'}}>We wish you happy new year in advance</h5>
                                 </div>
@@ -66,7 +66,7 @@ function Main() {
                     <div className="w-100 main__right">
                         <img src={img3} alt="img.jpg" />
                         <div className="main__right__text px-2 py-4 bg-white text-center">
-                            <h3><a href="#" className="text-decoration-none text-dark">Track Robot the Real Tracker</a></h3>
+                            <h3><a href="/" className="text-decoration-none text-dark">Track Robot the Real Tracker</a></h3>
                             <small className='text-secondary'>20th Jan. 2022</small>
                             <h5 className='text-dark' style={{fontSize: '12px', lineHeight: '1.3'}}>We wish you happy new year in advance</h5>
                         </div>

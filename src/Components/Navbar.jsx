@@ -7,7 +7,7 @@ function Navbar() {
     <Container>
         <div className="navbar__header d-flex justify-content-between py-3">
             <small className='navTop'>20 August. Thursday 2015. 2:00 PM. </small>
-            <small className='navTop'><a href="#" className="text-decoration-none text-white">LOGIN</a> / <a href="#" className="text-decoration-none text-white">REGISTER</a></small>
+            <small className='navTop'><a href="/" className="text-decoration-none text-white">LOGIN</a> / <a href="/" className="text-decoration-none text-white">REGISTER</a></small>
         </div>
         <div className="navbar__second d-flex justify-content-between">
             <div className="navbar__second__left d-flex align-items-center justify-content-between">
@@ -44,11 +44,11 @@ function Navbar() {
             </div>
         </div>
         <div className="navbar__last mt-4">
-            <h3><a href="#" className="text-decoration-none text-white me-3">Sport</a></h3>
-            <h3><a href="#" className="text-decoration-none text-white me-3">Cars</a></h3>
-            <h3><a href="#" className="text-decoration-none text-white me-3">New Brands</a></h3>
-            <h3><a href="#" className="text-decoration-none text-white me-3">Compare</a></h3>
-            <h3><a href="#" className="text-decoration-none text-white me-3">Join us</a></h3>
+            <h3><a href="/" className="text-decoration-none text-white me-3">Sport</a></h3>
+            <h3><a href="/" className="text-decoration-none text-white me-3">Cars</a></h3>
+            <h3><a href="/" className="text-decoration-none text-white me-3">New Brands</a></h3>
+            <h3><a href="/" className="text-decoration-none text-white me-3">Compare</a></h3>
+            <h3><a href="/" className="text-decoration-none text-white me-3">Join us</a></h3>
             <h3 className='search__icon'><Search style={{width: '18px'}} /></h3>
         </div>
     </Container>

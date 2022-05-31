@@ -17,7 +17,7 @@ function Section() {
                             <div className="section__container w-100">
                                 <img src={img5} alt="img.jpg" className='w-100 rounded' />
                                 <div className="section__container__text py-4 px-3 bg-white text-center">
-                                    <h2 className='text-dark fs-6 fw-bold'><a href="#" className="text-decoration-none text-dark">2022 Award for the best student</a></h2>
+                                    <h2 className='text-dark fs-6 fw-bold'><a href="/" className="text-decoration-none text-dark">2022 Award for the best student</a></h2>
                                     <small className="text-secondary">20th Feb, 2022</small>
                                     <p className='text-dark'>Lorem ipsum dolor sit amet.</p>
                                 </div>
